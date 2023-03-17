@@ -16,7 +16,7 @@ body {
 .resume-header {
 	color: #FFFFFF;
 	background-color: hsla(209,62%,26%,1.00);
-	font-family: 'Times New Roman',
+	font-family: 'Times New Roman';
 }
 
 .resume-main {
