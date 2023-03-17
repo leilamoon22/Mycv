@@ -14,8 +14,9 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
+	color: #FFFFFF;
 	background-color: hsla(209,62%,26%,1.00);
-	font-family:'Times New Roman', 
+	font-family: 'Times New Roman',
 }
 
 .resume-main {
