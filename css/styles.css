@@ -29,6 +29,11 @@ body {
 
 /* Styles for lists in the document */
 
+.leila1 {
+	color: rebeccapurple;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	}
+
 .biography-details li::before, .skill-list li::before {
 	content: ">";
 	font-weight: 800;
